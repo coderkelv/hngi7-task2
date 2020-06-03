@@ -1,5 +1,5 @@
 full_name = ('Kelvin Iseh')
-id = ('HNG-00076')
+hng_id = ('HNG-00076')
 language = ('Python')
 
 print('Hello World, this is ' + full_name + ' with HNGi7 ID ' +
